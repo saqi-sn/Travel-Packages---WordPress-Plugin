@@ -65,9 +65,6 @@ ravel-packages/ ├── assets/ │ ├── style.css # Styles for the plugi
 ### Version 1.0
 - Initial release of the plugin, including custom post type, taxonomy, AJAX filtering, and responsive design.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 
